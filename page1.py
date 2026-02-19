@@ -1,1 +1,1 @@
-print("THIS IS THE SECOND CHANGES!")
+print("HELLO, ALLIAH02!")
